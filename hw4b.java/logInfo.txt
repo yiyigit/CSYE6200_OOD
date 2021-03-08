@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-03-06T20:47:40.420541Z</date>
+  <millis>1615063660420</millis>
+  <nanos>541000</nanos>
+  <sequence>0</sequence>
+  <logger>RentalAgencyLogger</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.agency.RentalAgencyIO</class>
+  <method>logInfo</method>
+  <thread>1</thread>
+  <message>This is class information</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-03-06T20:56:58.747461Z</date>
+  <millis>1615064218747</millis>
+  <nanos>461000</nanos>
+  <sequence>0</sequence>
+  <logger>RentalAgencyLogger</logger>
+  <level>INFO</level>
+  <class>edu.neu.csye6200.agency.RentalAgencyIO</class>
+  <method>logInfo</method>
+  <thread>1</thread>
+  <message>This is class information</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
