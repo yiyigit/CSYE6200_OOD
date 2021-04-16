@@ -1,7 +1,7 @@
 # CSYE6200_OOD
-
-https://github.com/yiyigit/CSYE6200_OOD/blob/main/BG%20simulation1.png
-https://github.com/yiyigit/CSYE6200_OOD/blob/main/BG%20simulation2.png
+The final project simulates a tree growth with an input of generations, growth degree and growth rule.
+![image](https://github.com/yiyigit/CSYE6200_OOD/blob/main/BG%20simulation1.png)
+![image](https://github.com/yiyigit/CSYE6200_OOD/blob/main/BG%20simulation2.png)
 
 ## Running the project
 - The first method is to run `src/edu/neu/csye6200/ui/BGApplication.java` directly on IDE.
