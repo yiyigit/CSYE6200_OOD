@@ -1,10 +1,11 @@
 # CSYE6200_OOD
 
-
+https://github.com/yiyigit/CSYE6200_OOD/blob/main/BG%20simulation1.png
+https://github.com/yiyigit/CSYE6200_OOD/blob/main/BG%20simulation2.png
 
 ## Running the project
 - The first method is to run `src/edu/neu/csye6200/ui/BGApplication.java` directly on IDE.
-- Run it on Terminal or CMD: `java –jar assign5-Yiyi-Zhou.jar`
+- Run it on Terminal or CMD: `java –jar bg-project.jar`
 
 ## UI
 - Extended from the supplied BGApp abstract class and make my own User Interface application. 
